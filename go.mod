@@ -4,7 +4,8 @@ go 1.24
 
 require (
 	github.com/StephanHCB/go-autumn-logging v0.4.0
-	github.com/caarlos0/env/v11 v11.3.1
+	github.com/caarlos0/env/v11 v11.4.0
+	github.com/openbao/openbao/api/v2 v2.4.0
 )
 
 require (
@@ -20,7 +21,6 @@ require (
 	github.com/hashicorp/go-sockaddr v1.0.7 // indirect
 	github.com/hashicorp/hcl v1.0.1-vault-5 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/openbao/openbao/api/v2 v2.4.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	golang.org/x/net v0.42.0 // indirect
 	golang.org/x/text v0.27.0 // indirect
